@@ -1,6 +1,7 @@
 % Gaussian blur on image using Fast Fourier Transform
 % script will prompt user for the filename of image they wish to
 % apply Gaussian blur to
+%requires photoInput.m
 
 % Jamie Nordio
 
